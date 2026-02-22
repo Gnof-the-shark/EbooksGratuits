@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd4948da-ef03-4a8e-bdaf-3ef7d3827d24</dc:identifier>
+        <dc:title>Chroniques Post-Apocalyptiques d'une enfant sage</dc:title>
+        <dc:creator opf:file-as="Bacon, Annie" opf:role="aut">Annie Bacon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-01T04:00:00+00:00</dc:date>
+        <dc:description>ENQC456641</dc:description>
+        <dc:publisher>Bayard Canada</dc:publisher>
+        <dc:language>fra</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-25T23:04:55.690599+00:00"/>
+        <meta name="calibre:title_sort" content="Chroniques Post-Apocalyptiques d'une enfant sage"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Couverture" href="cover.jpg"/>
+    </guide>
+</package>
