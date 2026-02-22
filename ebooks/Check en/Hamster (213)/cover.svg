@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="300" viewBox="0 0 200 300">
+  <rect width="200" height="300" fill="#f0e6d3"/>
+  <rect x="10" y="10" width="180" height="280" fill="none" stroke="#8b6914" stroke-width="2"/>
+  <text x="100" y="80" font-family="Georgia, serif" font-size="28" font-weight="bold" fill="#5a3e1b" text-anchor="middle">Hamster</text>
+  <text x="100" y="110" font-family="Georgia, serif" font-size="14" fill="#7a5c2e" text-anchor="middle">Check en</text>
+  <ellipse cx="100" cy="190" rx="45" ry="40" fill="#d4956b"/>
+  <ellipse cx="75" cy="158" rx="18" ry="22" fill="#d4956b"/>
+  <ellipse cx="125" cy="158" rx="18" ry="22" fill="#d4956b"/>
+  <ellipse cx="75" cy="158" rx="11" ry="15" fill="#f0c0a0"/>
+  <ellipse cx="125" cy="158" rx="11" ry="15" fill="#f0c0a0"/>
+  <ellipse cx="100" cy="195" rx="28" ry="22" fill="#f0c0a0"/>
+  <circle cx="88" cy="183" r="5" fill="#3a2010"/>
+  <circle cx="112" cy="183" r="5" fill="#3a2010"/>
+  <ellipse cx="100" cy="196" rx="5" ry="3" fill="#e08080"/>
+  <line x1="78" y1="200" x2="55" y2="195" stroke="#3a2010" stroke-width="1"/>
+  <line x1="78" y1="203" x2="55" y2="203" stroke="#3a2010" stroke-width="1"/>
+  <line x1="78" y1="206" x2="55" y2="211" stroke="#3a2010" stroke-width="1"/>
+  <line x1="122" y1="200" x2="145" y2="195" stroke="#3a2010" stroke-width="1"/>
+  <line x1="122" y1="203" x2="145" y2="203" stroke="#3a2010" stroke-width="1"/>
+  <line x1="122" y1="206" x2="145" y2="211" stroke="#3a2010" stroke-width="1"/>
+</svg>
