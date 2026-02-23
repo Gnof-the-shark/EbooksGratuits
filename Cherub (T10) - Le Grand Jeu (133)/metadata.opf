@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">116fe02f-a07a-4738-8855-f5ec3f59ac89</dc:identifier>
+        <dc:title>Cherub (T10) - Le Grand Jeu</dc:title>
+        <dc:creator opf:file-as="Muchamore, Robert" opf:role="aut">Robert Muchamore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-22T09:27:33+00:00</dc:date>
+        <dc:description>EDEN2648390</dc:description>
+        <dc:publisher>Casterman Jeunesse</dc:publisher>
+        <dc:language>fra</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-25T23:13:52.764859+00:00"/>
+        <meta name="calibre:title_sort" content="Cherub (T10) - Le Grand Jeu"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Couverture" href="cover.jpg"/>
+    </guide>
+</package>
