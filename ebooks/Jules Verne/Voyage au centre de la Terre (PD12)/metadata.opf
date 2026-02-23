@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>Voyage au centre de la Terre</dc:title>
+        <dc:creator opf:file-as="Verne, Jules" opf:role="aut">Jules Verne</dc:creator>
+        <dc:language>fr</dc:language>
+        <dc:description>Roman de Jules Verne publié en 1864, récit d'une expédition au centre de la Terre. Œuvre du domaine public.</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:source>https://www.gutenberg.org/ebooks/4791</dc:source>
+    </metadata>
+</package>
