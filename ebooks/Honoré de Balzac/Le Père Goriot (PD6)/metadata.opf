@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>Le Père Goriot</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:language>fr</dc:language>
+        <dc:description>Roman de Balzac publié en 1835, chef-d'œuvre de La Comédie humaine. Œuvre du domaine public.</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:source>https://www.gutenberg.org/ebooks/4635</dc:source>
+    </metadata>
+</package>

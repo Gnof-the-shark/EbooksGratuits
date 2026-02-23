@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>Madame Bovary</dc:title>
+        <dc:creator opf:file-as="Flaubert, Gustave" opf:role="aut">Gustave Flaubert</dc:creator>
+        <dc:language>fr</dc:language>
+        <dc:description>Chef-d'œuvre de Flaubert publié en 1857, l'histoire d'Emma Bovary qui cherche à s'évader de la banalité provinciale. Œuvre du domaine public.</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:source>https://www.gutenberg.org/ebooks/14465</dc:source>
+    </metadata>
+</package>
