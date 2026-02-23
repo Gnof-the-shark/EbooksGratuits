@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>Vingt mille lieues sous les mers</dc:title>
+        <dc:creator opf:file-as="Verne, Jules" opf:role="aut">Jules Verne</dc:creator>
+        <dc:language>fr</dc:language>
+        <dc:description>Roman de science-fiction de Jules Verne publié en 1870. Œuvre du domaine public.</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:source>https://www.gutenberg.org/ebooks/54681</dc:source>
+    </metadata>
+</package>
