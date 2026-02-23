@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>Candide ou l'Optimisme</dc:title>
+        <dc:creator opf:file-as="Voltaire" opf:role="aut">Voltaire</dc:creator>
+        <dc:language>fr</dc:language>
+        <dc:description>Conte philosophique de Voltaire publié en 1759. Œuvre du domaine public.</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:source>https://www.gutenberg.org/ebooks/4650</dc:source>
+    </metadata>
+</package>

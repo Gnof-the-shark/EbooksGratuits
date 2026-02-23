@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>Le Comte de Monte-Cristo</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:language>fr</dc:language>
+        <dc:description>Roman d'aventures d'Alexandre Dumas publié en 1844-1846. Œuvre du domaine public.</dc:description>
+        <dc:publisher>Project Gutenberg</dc:publisher>
+        <dc:source>https://www.gutenberg.org/ebooks/17989</dc:source>
+    </metadata>
+</package>
