@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31eb30ba-4104-4a71-863d-c22335910ebf</dc:identifier>
+        <dc:title>Cherub (Mission 17) - Commando Adams</dc:title>
+        <dc:creator opf:file-as="Muchamore, Robert" opf:role="aut">Robert Muchamore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.0.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-09T07:10:49+00:00</dc:date>
+        <dc:description>EDEN3232582</dc:description>
+        <dc:publisher>Casterman Jeunesse</dc:publisher>
+        <dc:language>fra</dc:language>
+        <meta name="calibre:timestamp" content="2025-03-25T23:09:06.304804+00:00"/>
+        <meta name="calibre:title_sort" content="Cherub (Mission 17) - Commando Adams"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Couverture" href="cover.jpg"/>
+    </guide>
+</package>
